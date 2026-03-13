@@ -1,5 +1,12 @@
 # Delivery_backend
 
+## 🔗 Repositórios do Projeto
+
+Este sistema de delivery é dividido em dois repositórios:
+
+- 🎨 Frontend: https://github.com/Rochagx/Delivery_Frontend
+- 🖥 Backend: https://github.com/Rochagx/Delivery_backend
+
 Projeto de **backend para sistema de delivery** desenvolvido com **Java e Spring Boot**.
 
 ## Funcionalidades
@@ -17,3 +24,4 @@ Projeto de **backend para sistema de delivery** desenvolvido com **Java e Spring
 - Spring Boot
 - API REST
 - JUnit
+
